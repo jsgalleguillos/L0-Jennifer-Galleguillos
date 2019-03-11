@@ -1,0 +1,33 @@
+$ history
+    1  ls
+    2  pwd
+    3  ls
+    4  cd escritorio
+    5  cd Escritorio
+    6  cd Desktop
+    7  ld
+    8  ls
+    9  cd ..
+   10  ls
+   11  git clone https://github.com/bimartinez/repo-privado.git
+   12  git clone https://github.com/IIC2115/Syllabus.git
+   13  git pull
+   14  cd Syllabus
+   15  git pull
+   16  git clone https://github.com/jsgalleguillos/L0-Jennifer-Galleguillos.git
+   17  git add *
+   18  git commit -m "se sube el repo L0"
+   19  git push
+   20  $git push
+   21  git push
+   22  git push
+   23  git add *
+   24  git commit -m "se sube repo L0"
+   25  git config --global user.email "jsgalleguillos@uc.cl"
+   26  git config --global user.name "Jennifer Galleguillos"
+   27  git commit -m "se sube repo L0"
+   28  git push
+   29  git pull
+   30  doskey/History
+   31  doskey /History
+   32  history
